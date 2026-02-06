@@ -199,14 +199,14 @@ export const metadata: Metadata = {
       fileUrl: "https://drive.google.com/file/d/1jrW-LqgUDY98Y851wWHhyVYn1oyViNeW/view?usp=sharing"
     },
     {
-      title: "Physics Paper 2 - 2023",
-      description: "2023 Physics Paper 2 with practical section.",
-      subject: "Physics",
-      grade: "Grade 12",
-      fileSize: "3.5 MB",
+      title: "Geography Paper 1 2024",
+      description: "EJEB MOCK Geography Paper 1 S4",
+      subject: "Geography",
+      grade: "Grade S4",
+      fileSize: "903 KB",
       lastUpdated: "2024-01-06",
-      pages: 28,
-      fileUrl: "https://drive.google.com/file/d/PAPER_ID_PHYSICS_2023_2/view?usp=sharing"
+      pages: 6,
+      fileUrl: "https://drive.google.com/file/d/1avk0QWGiQcGr18z6S9nmS4Ngp4tuyiZa/view?usp=sharing"
     },
     {
       title: "Chemistry Paper 1 - 2023",
