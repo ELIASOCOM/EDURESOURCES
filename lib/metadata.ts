@@ -239,14 +239,14 @@ export const metadata: Metadata = {
       fileUrl: "https://drive.google.com/file/d/PAPER_ID_ENG_2023_1/view?usp=sharing"
     },
     {
-      title: "Mathematics Paper 2 - 2022",
-      description: "2022 Mathematics Paper 2 with solutions.",
-      subject: "Mathematics",
-      grade: "Grade 12",
-      fileSize: "3.0 MB",
+      title: "Geography paper 1 2022",
+      description: "KAMSSA PRE REGISTRATION EXAMINATIONS 2025",
+      subject: "Geography",
+      grade: "Grade S4",
+      fileSize: "707 KB",
       lastUpdated: "2024-01-10",
       pages: 25,
-      fileUrl: "https://drive.google.com/file/d/PAPER_ID_MATH_2022_2/view?usp=sharing"
+      fileUrl: "https://drive.google.com/file/d/1ws3lcPEusXovIwVBd4YxD2J4zW-3CfIN/view?usp=sharing"
     }
   ],
 
