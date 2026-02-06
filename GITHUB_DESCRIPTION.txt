@@ -1,0 +1,19 @@
+Complete Academic Hub - A modern, intelligent educational platform built for the Ugandan curriculum with 3,200+ free resources: video lessons, study notes, past papers, lesson plans. Features smart fuzzy search with typo tolerance, responsive mobile design, grid/list views, smooth animations, and enterprise-grade SEO optimization. Built with Next.js 16, React 19, TypeScript, and Tailwind CSS. Perfect for students and teachers in Uganda.
+
+Key Features:
+✓ 500+ Video Lessons | 800+ Study Notes | 1500+ Past Papers | 300+ CAI Items | 600+ Lesson Plans
+✓ Intelligent Fuzzy Search (handles typos & abbreviations)
+✓ Real-time search results as you type
+✓ Mobile-first responsive design
+✓ Grid & list view options
+✓ Smooth animations and transitions
+✓ Enterprise SEO optimization
+✓ Fully accessible (WCAG compliant)
+✓ Dark mode ready
+✓ Fast performance (Lighthouse 90+)
+
+Tech Stack: Next.js 16, React 19, TypeScript, Tailwind CSS, shadcn/ui
+
+GitHub Topics: education, learning-platform, free-resources, study-materials, open-source, next-js, react, educational-technology, student-resources, teacher-resources, past-papers, lesson-plans, video-lessons, study-notes
+
+Start exploring: https://yourdomain.com

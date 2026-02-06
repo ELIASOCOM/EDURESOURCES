@@ -1,0 +1,100 @@
+{
+  "name": "Complete Academic Hub - Free Educational Resources",
+  "short_name": "Academic Hub",
+  "description": "Access 3,200+ free educational resources including video lessons, study notes, past papers, and teaching materials for students and teachers worldwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><text y=%22.9em%22 fontSize=%22180%22>📚</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 512 512%22><text y=%22.9em%22 fontSize=%22480%22>📚</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><rect fill=%227c3aed%22 width=%22192%22 height=%22192%22/><text y=%22.9em%22 fontSize=%22180%22 fill=%22white%22>📚</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["education", "learning", "reference"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 540 720%22><rect fill=%22white%22 width=%22540%22 height=%22720%22/><text x=%2270%22 y=%22100%22 font-size=%2224%22 fill=%22%237c3aed%22>Complete Academic Hub</text><text x=%2270%22 y=%22150%22 font-size=%2216%22 fill=%22%23666%22>Free Educational Resources</text></svg>",
+      "sizes": "540x720",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 1280 720%22><rect fill=%22white%22 width=%221280%22 height=%22720%22/><text x=%22100%22 y=%22100%22 font-size=%2232%22 fill=%22%237c3aed%22>Complete Academic Hub</text><text x=%22100%22 y=%22160%22 font-size=%2220%22 fill=%22%23666%22>Free Educational Resources for Students & Teachers</text></svg>",
+      "sizes": "1280x720",
+      "type": "image/svg+xml",
+      "form_factor": "wide"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Search Resources",
+      "short_name": "Search",
+      "description": "Search for educational resources",
+      "url": "/?search=true",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><text y=%22.9em%22 fontSize=%22180%22>🔍</text></svg>",
+          "sizes": "192x192",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Video Lessons",
+      "short_name": "Videos",
+      "description": "Browse video lessons",
+      "url": "/#videos",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><text y=%22.9em%22 fontSize=%22180%22>🎬</text></svg>",
+          "sizes": "192x192",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Study Notes",
+      "short_name": "Notes",
+      "description": "Access study materials",
+      "url": "/#notes",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><text y=%22.9em%22 fontSize=%22180%22>📝</text></svg>",
+          "sizes": "192x192",
+          "type": "image/svg+xml"
+        }
+      ]
+    },
+    {
+      "name": "Past Papers",
+      "short_name": "Papers",
+      "description": "Download exam papers",
+      "url": "/#papers",
+      "icons": [
+        {
+          "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 192 192%22><text y=%22.9em%22 fontSize=%22180%22>📄</text></svg>",
+          "sizes": "192x192",
+          "type": "image/svg+xml"
+        }
+      ]
+    }
+  ]
+}

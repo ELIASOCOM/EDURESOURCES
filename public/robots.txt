@@ -1,0 +1,31 @@
+# Robots.txt for Complete Academic Hub
+# Allow all search engines to index and follow the site
+
+User-agent: *
+Allow: /
+Disallow: /api/
+Crawl-delay: 1
+Request-rate: 1/1s
+
+# Google specific rules
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+Request-rate: unlimited
+
+# Bing specific rules
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Site maps
+Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://yourdomain.com/sitemap-resources.xml
+
+# Disallow indexing of search results pages
+User-agent: *
+Disallow: /*?search=*
+Disallow: /*?page=*
+Allow: /?*
+
+# Comment: Last updated 2024
