@@ -189,14 +189,14 @@ export const metadata: Metadata = {
 
   pastPapers: [
     {
-      title: "Mathematics Paper 1 - 2023",
-      description: "2023 Mathematics Paper 1 with marking scheme.",
-      subject: "Mathematics",
-      grade: "Grade 12",
-      fileSize: "2.8 MB",
+      title: "Geography Paper 3 - 2022",
+      description: "2022 A level geography paper 3, Geography of Ugand and Fieldwork",
+      subject: "Geography",
+      grade: "Grade S6",
+      fileSize: "506 KB",
       lastUpdated: "2024-01-05",
       pages: 24,
-      fileUrl: "https://drive.google.com/file/d/PAPER_ID_MATH_2023_1/view?usp=sharing"
+      fileUrl: "https://drive.google.com/file/d/1jrW-LqgUDY98Y851wWHhyVYn1oyViNeW/view?usp=sharing"
     },
     {
       title: "Physics Paper 2 - 2023",
